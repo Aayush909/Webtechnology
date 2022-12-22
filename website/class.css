@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(124, 124, 236);
+    color: rgb(177, 243, 221);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-style: italic;
+}
+ h1{
+    border:1px solid #ffffff;
+    border-radius: 200px;
+    width: fit-content;
+    margin: 30px;
+    padding: 0px 15px;
+ }
+
+ h2{
+    border:3px solid #ffffff;
+    border-radius: 100px;
+    width: fit-content;
+    margin: 30px;
+    padding: 0px 30px;
+    text-decoration: line-through;
+ }
+
+ li{
+    list-style: circle;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+    color: bisque;
+    font-weight: bolder;
+ }
+
+ a{
+    color: rgba(255, 244, 87, 0.842);
+    text-decoration: dotted;
+    font-style: inherit;
+ }
